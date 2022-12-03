@@ -1,2 +1,3 @@
 * Merge sort -> https://youtu.be/4z9I6ZmeLOQ
 * Insertion Sort -> https://youtu.be/wWhAhp6PIuQ
+* Bubble Sort -> https://youtu.be/bBQkErahU9c
