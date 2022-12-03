@@ -1,1 +1,2 @@
-* merge sort with c++ -> https://youtu.be/4z9I6ZmeLOQ
+* Merge sort -> https://youtu.be/4z9I6ZmeLOQ
+* Insertion Sort -> https://youtu.be/wWhAhp6PIuQ
