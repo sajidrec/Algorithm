@@ -1,4 +1,5 @@
-* Merge sort -> https://youtu.be/4z9I6ZmeLOQ
+* Merge Sort -> https://youtu.be/4z9I6ZmeLOQ
 * Insertion Sort -> https://youtu.be/wWhAhp6PIuQ
 * Bubble Sort -> https://youtu.be/bBQkErahU9c
 * Count Sort -> https://youtu.be/imqr13aIBAY
+* Quick Sort -> https://youtu.be/sNaHN4tZmRk
