@@ -3,3 +3,5 @@
 * Bubble Sort -> https://youtu.be/bBQkErahU9c
 * Count Sort -> https://youtu.be/imqr13aIBAY
 * Quick Sort -> https://youtu.be/sNaHN4tZmRk
+
+* Dijkstra's Algorithm -> https://youtu.be/jbhuqIASjoM
